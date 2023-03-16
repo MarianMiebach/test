@@ -1,7 +1,6 @@
 # test
-
-  ##Ein Testverzeichnis
-        ###Hello world!
+  ## Ein Testverzeichnis
+      ### Hello world!
 punkt:
 -a
 -b
